@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '32243'
     url: http://www.gutenberg.org/2009/agents/32243
     wikipedia: https://fi.wikipedia.org/wiki/Urho_Kivim%C3%A4ki
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -26,6 +29,8 @@ creator:
 description: 'Continued by Marseljeesi, #73968.
 
   Sequel to Pakolaiskuningas, #73907.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73947#Kansanmies-b-Romaani-Ranskan-vallankumouksesta
 gutenberg_issued: '2024-06-29'
 gutenberg_type: Text
 identifiers:
